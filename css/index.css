@@ -1,0 +1,33 @@
+#header{
+    background: url("../img/3.jpg") no-repeat center;
+    height: 500px;
+}
+#header img{
+    margin-top: 250px;
+    margin-left: 40px;
+}
+#header h2{
+    margin-left: 60px;
+}
+#content{
+    background: url("../img/33.jpg") no-repeat center;
+}
+#content button{
+    margin-top: 940px;
+    height: 100px;
+    width: 980px;
+    background-color: lightcoral;
+    color: white;
+    font-size: 45px;
+    border-radius: 18px;
+}
+#footer{
+    height: 40px;
+}
+#footer ul{
+    height: 26px;
+}
+#footer li{
+    float: left;
+    font-size: 50px;
+}
