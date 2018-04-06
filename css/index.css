@@ -22,12 +22,19 @@
     border-radius: 18px;
 }
 #footer{
-    height: 40px;
-}
-#footer ul{
-    height: 26px;
+    background:#eeeeee;
+    height: 100px;
+    line-height: 100px;
 }
 #footer li{
     float: left;
-    font-size: 50px;
+    font-size: 40px;
+    padding-left: 130px;
 }
+#footer li a{
+    color: #000;
+}
+#footer li a:hover{
+    text-decoration: underline;
+}
+

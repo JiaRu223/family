@@ -1,0 +1,49 @@
+#header{
+    height: 250px;
+}
+#header p{
+    font-size: 46px;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+#content{
+    background: #eeeeee;
+    height: 500px;
+}
+#content button{
+    background-color: lightcoral;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    font-size: 100px;
+    color: white;
+    margin-top: 160px;
+    margin-left: 380px;
+}
+#content p{
+    font-size: 46px;
+    margin-top: 50px;
+    margin-left: 360px;
+}
+#photo img{
+    width: 320px;
+    height: 320px;
+}
+#footer{
+    background:#eeeeee;
+    height: 100px;
+    line-height: 100px;
+    margin-top: 50px;
+}
+#footer li{
+    float: left;
+    font-size: 40px;
+    padding-left: 130px;
+}
+#footer li a{
+    color: #000;
+}
+#footer li a:hover{
+    text-decoration: underline;
+}
