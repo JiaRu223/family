@@ -1,0 +1,29 @@
+#header{
+    height: 550px;
+}
+#header img{
+    display: inline-block;
+    width: 980px;
+}
+#content{
+    height: 550px;
+}
+#content p{
+    font-size: 45px;
+    text-align: center;
+}
+#content img{
+    margin-top: 40px;
+    width: 280px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#readme img{
+    margin-left: 160px;
+}
+#readme #title{
+    margin-left: 400px;
+}
+#footer{
+    margin-top: 130px;
+}

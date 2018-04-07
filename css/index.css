@@ -1,5 +1,5 @@
 #header{
-    background: url("../img/3.jpg") no-repeat center;
+    background: url("../img/333.jpg") no-repeat center;
     height: 500px;
 }
 #header img{
@@ -10,7 +10,7 @@
     margin-left: 60px;
 }
 #content{
-    background: url("../img/33.jpg") no-repeat center;
+    background: url("../img/3333.jpg") no-repeat center;
 }
 #content button{
     margin-top: 940px;
@@ -37,4 +37,5 @@
 #footer li a:hover{
     text-decoration: underline;
 }
+
 
