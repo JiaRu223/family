@@ -50,7 +50,7 @@ body{
 }
 #content span{
     font-size: 60px;
-    margin-left: 200px;
+    margin-left: 180px;
 }
 #content button{
     background-color: lightcoral;
@@ -69,6 +69,7 @@ body{
     margin-left: 360px;
 }
 #content #select{
+    margin-top: 80px;
     font-size: 46px;
     background-color: #eeeeee;
 }
@@ -89,6 +90,34 @@ body{
     position: absolute;
     top: 120px;
     right: 20px;
+}
+#next button{
+    width: 980px;
+    height: 100px;
+    margin-top: 30px;
+    background-color: lightcoral;
+    border-radius: 20px;
+    font-size: 46px;
+    color: white;
+}
+#next img{
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#next #buy{
+    font-size: 46px;
+    display: inline-block;
+    margin-top: 10px;
 
 }
+#next #detail{
+    font-size: 50px;
+    margin-left: 600px;
+}
+#next #two{
+    background-color: white;
+    margin-top: 15px;
 
+}

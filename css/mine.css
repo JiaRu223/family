@@ -1,0 +1,33 @@
+#header{
+    height: 500px;
+    background: url("../img/888.jpg") no-repeat center;
+    overflow: hidden;
+}
+#header p{
+    font-size: 40px;
+    font-weight: bold;
+}
+#header #wrap{
+    margin-left: 380px;
+    margin-top: 160px;
+}
+#header img{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+}
+#header #pos{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+#content a{
+    display: inline-block;
+    font-size: 46px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#footer{
+    margin-top: 240px;
+}

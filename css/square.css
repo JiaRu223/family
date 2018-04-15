@@ -1,0 +1,75 @@
+#header{
+    height: 140px;
+    background-color: lightcoral;
+    position: relative;
+}
+#header img{
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+#header #data{
+    display: inline-block;
+    font-size: 44px;
+    color: white;
+    position: relative;
+    top: -50px;
+    left: 200px;
+}
+#header #more{
+    font-size: 44px;
+    color: white;
+    margin-top: -48px;
+    margin-left: 450px;
+}
+#content #line{
+    width: 2px;
+    height: 1370px;
+    background: black;
+    margin-left: 120px;
+    float: left;
+}
+#content p{
+    font-size: 36px;
+    display: inline-block;
+    margin-left: -110px;
+    margin-top: 100px;
+}
+#content .bac{
+    margin-left: 70px;
+    margin-top: 50px;
+    width: 700px;
+    height: 400px;
+}
+#content .portrait{
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+#content .mood{
+    margin-top: -50px;
+    margin-left: 240px;
+    font-size: 36px;
+    width: 400px;
+}
+#content .float{
+    height: 200px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+#content .photo{
+    margin-left: 100px;
+    padding-right: 80px;
+}
+#content .bac2{
+    margin-left: 70px;
+    margin-top: -150px;
+    width: 700px;
+    height: 400px;
+}
+#footer{
+    margin-top: 1258px;
+}
